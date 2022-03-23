@@ -1,7 +1,6 @@
 const { prompt } = require("inquirer");
 const logo = require("asciiart-logo");
 const localDB = require("./db");
-const { loadEmployeebyRole1 } = require("./db");
 require("console.table");
 const horizontalLine = '-'.repeat(process.stdout.columns)
 
