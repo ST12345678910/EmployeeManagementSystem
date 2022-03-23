@@ -16,7 +16,7 @@ The application relies on a local MySQL server as well as numerous Node packages
  The user can either <code>npx nodemon</code> if they have Nodemon, or <code>node index.js</code>
  ![Alt Text](./employeemsdemo.gif)
 ## Contributing
- I am still working to add functionality to the project, if you are interested in contributing or providing feedback please refer to the contact section.
+ I am still working to add functionality to the project, if you are interested in contributing or providing feedback please refer to the Questions section.
 ## Tests
  N/A
 ## Questions
