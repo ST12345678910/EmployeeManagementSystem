@@ -11,7 +11,7 @@ A <code>Node.js</code> application that relies on a <code>MySQL</code> backend, 
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-The application relies on a local MySQL server as well as numerous Node packages. To install run: 
+The application relies on a local MySQL server as well as numerous Node packages. To install run: <code>node index.js</code>
 ## Usage
  The user can either <code>npx nodemon</code> if they have Nodemon, or <code>node index.js</code>
  ![Alt Text](./employeemsdemo.gif)
