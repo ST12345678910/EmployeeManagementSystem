@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 
 ## Description
-A <code>Node.js</code> application that relies on a <code>MySQL</code> backend, to allow a user to manage the basic details of the employees in their organization.  
+A <code>Node.js</code> application that relies on a <code>MySQL</code> backend, to allow a user to manage the basic details of the employees in their organization.  [Download Demo](./employeemsdemo.mp4)
 
 ## Table of Contents
 - [Installation](#installation)
