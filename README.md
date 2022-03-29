@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 
 ## Description
-A <code>Node.js</code> application that relies on a <code>MySQL</code> backend, to allow a user to manage the basic details of the employees in their organization.  [Download Demo - Select "View raw"](./employeemsdemo.mp4)
+A <code>Node.js</code> application that relies on a <code>MySQL</code> backend, to allow a user to manage the basic details of the employees in their organization.  [Download Demo - select "View raw"](./employeemsdemo.mp4)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,7 +15,7 @@ The application relies on a local MySQL server as well as numerous Node packages
 ## Usage
  The user can either <code>npx nodemon</code> if they have Nodemon, or <code>node index.js</code>
  ![Alt Text](./employeemsdemo.gif)
- [Download Demo - Select "View raw"](./employeemsdemo.mp4)
+ [Download Demo - select "View raw"](./employeemsdemo.mp4)
 ## Contributing
  I am still working to add functionality to the project, if you are interested in contributing or providing feedback please refer to the Questions section.
 ## Tests
